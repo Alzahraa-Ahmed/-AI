@@ -8,7 +8,9 @@
 
 --------------------------------------------------------------
 **Prerequisites**
+
   -Installed python 3
+  
   -Installed libraries : numpy , matplotlib and csv
  
   --------------------------------------------------
